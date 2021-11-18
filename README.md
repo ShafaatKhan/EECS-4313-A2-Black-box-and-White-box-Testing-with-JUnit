@@ -1,1 +1,1 @@
-# EECS-4313-A2-Black-box-and-White-box-Testing-with-JUnit
+This project tests code that can be found in this repository: https://github.com/mikeberger/borg_calendar
